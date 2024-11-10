@@ -11,6 +11,7 @@
 🌱 I’m currently learning:
 - Three.js
 - Python
+- TypeScript
 
 🔆 Projects:
 - NC News: [Front-end Repo](https://github.com/nkytruong/NC-News) | [Back-end Repo](https://github.com/nkytruong/NC-news-api) | [Hosted App](https://nikkitruong-ncnews.netlify.app/)
